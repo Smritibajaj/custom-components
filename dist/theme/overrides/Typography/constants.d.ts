@@ -1,0 +1,2 @@
+export declare const variants: readonly ["bodyMedium", "bodyRegular", "captionMedium", "descriptionMedium", "descriptionRegular", "footerMedium", "h3SemiBold", "h3Medium", "headingMedium", "headingSemiBold", "subHeadingSemiBold", "subHeadingMedium", "subHeadingRegular", "superTitleSemiBold", "superTitleMedium", "tagMedium", "titleSemiBold", "titleMedium"];
+//# sourceMappingURL=constants.d.ts.map

@@ -1,0 +1,1 @@
+export { MuiDialogTitle } from './MuiDialogTitle';

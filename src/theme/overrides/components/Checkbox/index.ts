@@ -1,0 +1,1 @@
+export { MuiCheckbox } from './MuiCheckbox';

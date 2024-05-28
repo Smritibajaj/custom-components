@@ -1,0 +1,1 @@
+export { MuiAvatarGroup } from './MuiAvatarGroup'

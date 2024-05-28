@@ -1,0 +1,1 @@
+export { MuiDialogActions } from './MuiDialogActions';

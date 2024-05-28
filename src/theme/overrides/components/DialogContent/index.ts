@@ -1,0 +1,1 @@
+export { MuiDialogContent } from './MuiDialogContent'

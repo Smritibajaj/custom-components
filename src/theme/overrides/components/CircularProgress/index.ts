@@ -1,0 +1,1 @@
+export { MuiCircularProgress } from './MuiCircularProgress';

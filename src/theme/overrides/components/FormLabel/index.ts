@@ -1,0 +1,1 @@
+export { MuiFormLabel } from './ MuiFormLabel';

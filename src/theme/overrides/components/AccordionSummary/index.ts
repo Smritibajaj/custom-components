@@ -1,0 +1,1 @@
+export { MuiAccordionSummary } from './MuiAccordionSummary';

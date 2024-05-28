@@ -1,0 +1,1 @@
+export { MuiInputLabel } from './MuiInputLabel'

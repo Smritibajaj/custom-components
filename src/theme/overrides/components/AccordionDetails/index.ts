@@ -1,0 +1,1 @@
+export { MuiAccordionDetails } from './MuiAccordionDetails';

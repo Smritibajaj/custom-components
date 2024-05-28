@@ -1,0 +1,1 @@
+export { MuiSlider } from './MuiSlider';

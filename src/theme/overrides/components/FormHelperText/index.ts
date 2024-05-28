@@ -1,0 +1,1 @@
+export { MuiFormHelperText } from './MuiFormHelperText';

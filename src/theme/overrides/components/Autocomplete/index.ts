@@ -1,0 +1,1 @@
+export { MuiAutocomplete } from './MuiAutocomplete';

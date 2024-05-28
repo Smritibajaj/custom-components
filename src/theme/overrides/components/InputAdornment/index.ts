@@ -1,0 +1,1 @@
+export { MuiInputAdornment } from './MuiInputAdornment';

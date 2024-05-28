@@ -1,0 +1,1 @@
+export { MuiDialog } from './MuiDialog'
